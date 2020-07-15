@@ -7,6 +7,13 @@ body
     margin: 0;
     padding: 0;
 }
+#cabecera{
+    color: gainsboro;
+    background: hotpink;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+}
 #container
 {
     width: 70%;
