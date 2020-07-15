@@ -4,4 +4,6 @@ El chico de 29 anios que busca aprender mas sobre el repostorio en Git.
 
 Acutalmente quiere usar este repositorio en terminal.
 
-Se esta poniendo fuerte para regregar a trabajar
+Se esta poniendo fuerte para regregar a trabajar.
+
+Vamos hablar un poco sobre su vida.
