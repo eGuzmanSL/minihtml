@@ -2,4 +2,6 @@ Esta es la historia de Eduardo Guzman.
 
 El chico de 29 anios que busca aprender mas sobre el repostorio en Git.
 
-Anteriormente usaba eclipse dentro de una interfaz grafica para subir cambios.
+Acutalmente quiere usar este repositorio en terminal.
+
+Se esta poniendo fuerte para regregar a trabajar
