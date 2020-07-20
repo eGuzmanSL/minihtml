@@ -5,4 +5,6 @@ El chico que busca aprender mas sobre el repostorio en Git.
 Anteriormente usaba eclipse dentro de una interfaz grafica para subir cambios.
 Cambiemos esta linea
 
-MAster 1
+Master 1
+
+Master 2
